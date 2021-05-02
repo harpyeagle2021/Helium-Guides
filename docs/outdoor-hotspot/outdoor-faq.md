@@ -12,7 +12,7 @@ No, the 4G Module is an optional
 
 ## Does the 4G Module require a sim-card?
 
-Yes you will need to sign up to a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](outdoor-hotspot/lte-config.md).
+Yes you will need to sign up to a data plan with a mobile network. You can find more details about setting up 4G with the outdoor gateway on the [LTE Config page](outdoor-hotspot/lte-config.md).
 
 We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
 
